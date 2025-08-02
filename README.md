@@ -1,39 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
-
+# devolution 🎯
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 404:bitrot
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Mohammed Sahad – TKM College of Engineering
+- Member 2: Vishruth – TKM College of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+Devolution Ultra is a website that actively gets worse the more you use it. With every click, the visual and functional quality of the site degrade from sleek Web 3.0 to retro chaos
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Modern websites are too polished and efficient. They don't waste enough of your time or mental stability.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We made a site that punishes curiosity and clicks. Every interaction corrupts the site further, eventually culminating in existential dread and a plain white screen.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- language:html,css,javascript
+- Libraries: Glitch effect via canvas, basic JS timers
+- Tools used: VS Code, Figma, GIMP
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-
 
 ### Implementation
 For Software:
@@ -49,49 +44,22 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+<img width="1920" height="1200" alt="Screenshot 2025-08-02 065207" src="https://github.com/user-attachments/assets/d779c12b-3b7c-4988-95b1-be81637f0dff" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1200" alt="Screenshot 2025-08-02 065242" src="https://github.com/user-attachments/assets/68088d08-60bb-4806-a24b-1d91586f25dd" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Screenshot3](Add screenshot 3 h
+<img width="1920" height="1200" alt="Screenshot 2025-08-02 045323" src="https://github.com/user-attachments/assets/17490b46-c379-4b20-a6cc-92e8204f88e5" />
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Mohammed Sahad
+- Vishruth
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
